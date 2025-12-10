@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f0f0f0;
+}
+input, button {
+  padding: 10px;
+  margin: 5px;
+}
+pre {
+  background: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
