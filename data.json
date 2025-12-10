@@ -1,0 +1,22 @@
+{
+  "Paris SG": {
+    "league": "Ligue 1",
+    "position": 1,
+    "points": 60,
+    "form": "WWDWL",
+    "last_matches": [
+      {"date":"2025-12-09","adversaire":"Marseille","score":"2-1"},
+      {"date":"2025-12-06","adversaire":"Lyon","score":"1-1"}
+    ]
+  },
+  "Marseille": {
+    "league": "Ligue 1",
+    "position": 2,
+    "points": 58,
+    "form": "WWLWD",
+    "last_matches": [
+      {"date":"2025-12-09","adversaire":"Paris SG","score":"1-2"},
+      {"date":"2025-12-06","adversaire":"Nice","score":"3-0"}
+    ]
+  }
+}
